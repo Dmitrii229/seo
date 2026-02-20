@@ -1,0 +1,20 @@
+<!-- {
+ 
+  "@type": "ItemList", 
+  "name": "Полезные разделы сайта",
+  "itemListElement": [ 
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "подбор рейса",
+      "url": "https://store.steampowered.com/?l=russian"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "посадочная платформа",
+      "url": "https://store.steampowered.com/?l=russian"
+    },
+   
+  ]
+} -->
